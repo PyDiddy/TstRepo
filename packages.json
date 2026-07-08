@@ -1,0 +1,27 @@
+{
+  "repoName": "TstRepo",
+  "author": "Pyd",
+  "tweaks": [
+    {
+      "id": "-.-",
+      "name": "Name",
+      "description": "Description.",
+      "version": "1.0.0",
+      "author": "@Pyd",
+      "symbol": "symbol",
+      "scriptURL": "url"
+    },
+    {
+      "id": "-.-",
+      "name": "Name",
+      "description": "Description.",
+      "version": "1.0.0",
+      "author": "@Pyd",
+      "symbol": "symbol",
+      "scriptURL": "url",
+      "maxIOS": "18.x",
+      "compatibilityNote": "Compatibility",
+      "unsupportedMessage": "Compatibility"
+    }
+    ]
+}
