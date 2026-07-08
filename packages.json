@@ -3,12 +3,12 @@
   "author": "Pyd",
   "tweaks": [
     {
-      "id": "-.-",
-      "name": "Name",
-      "description": "Description.",
+      "id": "pyd.fbb",
+      "name": "FLEXbbreaks",
+      "description": "Umh.",
       "version": "1.0.0",
       "author": "@Pyd",
-      "symbol": "symbol",
+      "symbol": "play.fill",
       "scriptURL": "url"
     },
     {
